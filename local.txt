@@ -2,4 +2,7 @@
 Ver 20
 =======
 origin gitee
+<<<<<<< HEAD
+>>>>>>> parent of ca81eb0 (Remote to local)
+=======
 >>>>>>> parent of ca81eb0 (Remote to local)
