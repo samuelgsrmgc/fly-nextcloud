@@ -2,7 +2,7 @@
 A Nextcloud Deployment &amp; Management System for Fly.io
 
 ## Table of Contents
-Sam
+SamAndSam
 - [Introduction](#introduction)
 - [Cluster Pricing](#cluster-pricing)
 - [Getting Started](#getting-started)
